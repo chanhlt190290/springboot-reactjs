@@ -1,0 +1,5 @@
+bin/
+client/
+build/
+.vscode/
+.gradle/
