@@ -1,10 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 bin/
 client/
 build/
 .vscode/
 .gradle/
 =======
+=======
+>>>>>>> e9aa1f838e5b3e48c45dc8043c29764d560825fa
 # Compiled class file
 *.class
 
@@ -27,4 +30,7 @@ build/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 >>>>>>> 460e870130b0cbf55a5c980bcebff799ebd60b93
+=======
+>>>>>>> e9aa1f838e5b3e48c45dc8043c29764d560825fa
